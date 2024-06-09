@@ -1,0 +1,119 @@
+[
+  {
+    "id": 0,
+    "tag": "ogrodzieniec",
+    "name": "Ogrodzieniec",
+    "description": "Zamek  Rycerski w Podzamczu to ruiny położone na Jurze Krakowsko-Częstochowskiej we wsi Podzamcze, wybudowane w XIV-XV wieku przez ród Włodków Sulimczyków.\\\n\\\nLeży na najwyższym wzniesieniu Jury, Górze Zamkowej, i jest jednym z najbardziej rozpoznawalnych obiektów historyczznych Szlaku Orlich Gniazd.\\\n\\\nPierwsze umocnienia powstały za Bolesława Krzywoustego, ale zostały zniszczone w 1241 roku przez Tatarów. Król Kazimierz Wielki zbudował tam murowany zamek, który przekazał marszałkowi Przedborowi z Brzezia.\\\n\\\nZamek przechodził przez ręce różnych właścicieli, był kilkakrotnie niszczony, m.in. podczas potopu szwedzkiego, a ostatecznie popadł w ruinę po 1702 roku.\\\n\\\nOd 1944 roku zamek jest własnością państwową, a prace konserwatorskie zakończono w 1973 roku, ostatecznie udostępniając go zwiedzającym.",
+    "latitude": 50.453799,
+    "longitude": 19.551831,
+    "type": "Castle"
+  },
+  {
+    "id": 1,
+    "tag": "pilcza",
+    "name": "Pilcza",
+    "description": "Zamek Pilcza leży na Górze Zamkowej we wsi Smoleń. W okolicznym terenie utworzony został także rezerwat przyrody Smoleń.\\\n\\\nNajprawdopodobniej jego historia sięga w III ćwierci XIV wieku, kiedy został zbudowany przez Ottona z Pilczy, a pierwsza pewna wzmianka na jego temat pochodzi z 1394 roku. Własność zamku przeszła później na jego córkę, Elżbietę Pilecką-Granowską, trzecia żonę Władysława Jagiełły, a po niej zamek stał się własnością rodu Leliwitów na okres 200 lat.\\\n\\\nW XVI wieku na zamku przebywał Biernat z Lublina, kapelan kaplicy zamkowej i prywatny lekarz Jana Pileckiego. W czasach potopu zamek został zdewastowany przez Szwedów w 1655 roku, a w 1797 roku Austriacy użyli kamienia z murów do budowy komory celnej.\\\n\\\nPierwsze próby rekonstrukcji zamku sięgają lat 40. XIX wieku, kiedy to Roman Hubicki uporządkował zamek i częściowo go zrekonstruował, natrafiając przy tym na liczne średniowieczne artefakty.\\\n\\\nOstatecznie, prace zabezpieczające rozpoczęto w 1972 roku, a zamek udostępniono do zwiedzania w 2015 roku po zabezpieczeniu murów i częściowej rekonstrukcji.",
+    "latitude": 50.438585,
+    "longitude": 19.675234,
+    "type": "Castle"
+  },
+  {
+    "id": 2,
+    "tag": "pieskowa_skala",
+    "name": "Pieskowa Skała",
+    "description": "Zamek Królewski w Pieskowej Skale, po raz pierwszy wzmiankowany jako Peskenstein w 1315 roku, prawdopodobnie zawdzięcza swoją nazwę imieniu pierwszego właściciela - Piotra, którego zdrobnienie brzmiało w średniowieczu „Peszek”.\\\n\\\nW pierwszej połowie XIV wieku Kazimierz III Wielki wybudował tam zamek, będący częścią systemu obronnych Orlich Gniazd. Od 1377 do 1608 roku zamek należał do rodu Szafrańców, z których niektórzy trudnili się zbójectwem, co doprowadziło do egzekucji Krzysztofa Szafrańca w 1484 roku. W latach 1542–1580 zamek przekształcono w renesansową rezydencję, a w XVII wieku dobudowano fortyfikacje bastionowe.\\\n\\\nZamek podzielił los wielu warowni ze Szlaku Orlich Gniazd i został zniszczony podczas potopu szwedzkiego w 1655 roku, a następnie odbudowany w 1768 roku jako siedziba rodu Wielopolskich. W 1787 roku zamek gościł króla Stanisława Augusta Poniatowskiego, a po pożarze w 1850 roku został częściowo zrekonstruowany przez Sobiesława Mieroszewskiego.\\\n\\\nW latach 80. XIX wieku hrabia Krzysztof Mieroszewski sprzedał zamek, który następnie trafił w ręce Michała Wilczyńskiego, a później dr. Serafina Chmurskiego. Dzięki apelowi Adolfa Dygasińskiego, „Towarzystwo Akcyjne Pieskowa Skała” wykupiło zamek w 1902 roku, ratując go przed dalszymi zniszczeniami.\\\n\\\nPodczas II wojny światowej w zamku funkcjonował sierociniec, a po wojnie przejął go Skarb Państwa. Po generalnej renowacji w latach 1950–1963, zamek stał się Oddziałem Państwowych Zbiorów Sztuki na Wawelu, gdzie obecnie znajduje się stała ekspozycja „Przemiany stylowe w sztuce europejskiej od średniowiecza do połowy XIX wieku”.",
+    "latitude": 50.244388,
+    "longitude": 19.780832,
+    "type": "Castle"
+  },
+  {
+    "id": 3,
+    "tag": "olsztyn",
+    "name": "Olsztyn",
+    "description": "Zamek Królewski w Olsztynie k. Częstochowy",
+    "latitude": 50.749833,
+    "longitude": 19.274226,
+    "type": "Castle"
+  },
+  {
+    "id": 4,
+    "tag": "ojcow",
+    "name": "Ojców",
+    "description": "Zamek Królewski na Złotej Górze w Ojcowie",
+    "latitude": 50.211841,
+    "longitude": 19.830077,
+    "type": "Castle"
+  },
+  {
+    "id": 5,
+    "tag": "rabsztyn",
+    "name": "Rabsztyn",
+    "description": "Zamek Rycerski w Rabsztynie",
+    "latitude": 50.299704,
+    "longitude":  19.592906,
+    "type": "Castle"
+  },
+  {
+    "id": 6,
+    "tag": "bydlin",
+    "name": "Bydlin",
+    "description": "Zamek Rycerski w Bydlinie",
+    "latitude": 50.388826,
+    "longitude": 19.643011,
+    "type": "Castle"
+  },
+  {
+    "id": 7,
+    "tag": "pilica",
+    "name": "Pilica",
+    "description": "Pałac Obronny i Park w Pilicy",
+    "latitude": 50.467910,
+    "longitude": 19.6489191,
+    "type": "Palace"
+  },
+  {
+    "id": 8,
+    "tag": "gora_birow",
+    "name": "Góra Birów",
+    "description": "Gród na Górze Birów",
+    "latitude": 50.464656,
+    "longitude": 19.551152,
+    "type": "Outpost"
+  },
+  {
+    "id": 9,
+    "tag": "bakowiec",
+    "name": "Bąkowiec",
+    "description": "Zamek Rycerski Bąkowiec w Morsku",
+    "latitude": 50.550866,
+    "longitude": 19.520732,
+    "type": "Castle"
+  },
+  {
+    "id": 10,
+    "tag": "bobolice",
+    "name": "Bobolice",
+    "description": "Zamek Królewski w Bobolicach",
+    "latitude": 50.6134788,
+    "longitude": 19.493232,
+    "type": "Castle"
+  },
+  {
+    "id": 11,
+    "tag": "mirow",
+    "name": "Mirow",
+    "description": "Zamek Rycerski w Mirowie",
+    "latitude": 50.614650,
+    "longitude": 19.475205,
+    "type": "Castle"
+  },
+  {
+    "id": 12,
+    "tag": "ostreznik",
+    "name": "Ostrężnik",
+    "description": "Zamek Rycerski w Ostrężniku",
+    "latitude": 50.674879,
+    "longitude": 19.400223,
+    "type": "Castle"
+  }
+]
