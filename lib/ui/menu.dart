@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:nest_jumper/ui/trail_page.dart';
+import 'faq_page.dart';
 import 'map_page.dart';
 import 'castles_page.dart';
-import 'trails_page.dart';
 
 class Menu extends StatefulWidget {
   const Menu({super.key});
@@ -33,9 +34,15 @@ class _MenuState extends State<Menu> {
                   },
                 ),
                 ListTile(
-                  title: Text('Trails', style: textTheme.bodyMedium),
+                  title: Text('FAQ', style: textTheme.bodyMedium),
                   onTap: () {
-                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => TrailsPage(title: 'Trails Page',)));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => FAQPage(title: 'FAQ Page',)));
+                  },
+                ),
+                ListTile(
+                  title: Text('Historia szlaku', style: textTheme.bodyMedium),
+                  onTap: () {
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => TrailPage(title: 'Trail Page',)));
                   },
                 ),
               ],
