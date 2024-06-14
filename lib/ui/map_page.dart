@@ -49,7 +49,7 @@ class _State extends State<MapPage> {
       ),
       drawer: Menu(),
       body: FutureBuilder(
-        future: _mapObjects.loadMarkersFromJson(jsonData: JsonHandler().returnJson(), context: context),
+        future: _mapObjects.loadMarkersFromJson(jsonData: JsonHandler().returnAttractionsJson(), context: context),
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.done) {
             return GoogleMap(

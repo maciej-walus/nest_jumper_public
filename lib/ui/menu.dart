@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nest_jumper/ui/trail_page.dart';
-import 'faq_page.dart';
-import 'map_page.dart';
-import 'castles_page.dart';
+import 'package:nest_jumper/ui/faq_page.dart';
+import 'package:nest_jumper/ui/map_page.dart';
+import 'package:nest_jumper/ui/castles_page.dart';
 
 class Menu extends StatefulWidget {
   const Menu({super.key});

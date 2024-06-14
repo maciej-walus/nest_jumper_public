@@ -23,7 +23,7 @@ class _PilicaPageState extends State<PilicaPage> {
   }
 
   _loadJson() async {
-    await _jsonHandler.loadJson();
+    await _jsonHandler.loadAttractionsJson();
     setState(() {
       _name = _jsonHandler.returnName(id);
       _description = _jsonHandler.returnDescription(id);
@@ -66,11 +66,11 @@ class _PilicaPageState extends State<PilicaPage> {
                 ),
                 Container(
                   width: double.infinity,
-                  child: Image.asset('assets/images/$_tag/${_tag}_2.png'),
+                  child: Image.asset('assets/images/$_tag/${_tag}_3.png'),
                 ),
                 Container(
                   width: double.infinity,
-                  child: Image.asset('assets/images/$_tag/${_tag}_1.png'),
+                  child: Image.asset('assets/images/$_tag/${_tag}_4.png'),
                 ),
               ],
             ),

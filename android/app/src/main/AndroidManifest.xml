@@ -1,11 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="nest_jumper"
+        android:label="Nest Jumper"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBBS_NyMymyChuMoY4WQ6OZi0xJZH8eIY0"/>
+            android:value="your api key here :)"/>
 
         <activity
             android:name=".MainActivity"

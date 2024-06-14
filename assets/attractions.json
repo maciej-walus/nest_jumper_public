@@ -30,7 +30,7 @@
     "id": 3,
     "tag": "olsztyn",
     "name": "Olsztyn",
-    "description": "Zamek Królewski w Olsztynie k. Częstochowy",
+    "description": "Zamek Olsztyn jest jednym z największych reliktów obronnych Wyżyny Krakowsko-Częstochowskiej, wzniesionym w drugiej połowie XIII wieku. \\\n\\\nPrzez ponad 300 lat pełnił on kluczową rolę w obronie Małopolski i był ośrodkiem zarządu królewskiego okręgu administracyjno-gospodarczego. Nazwa Olsztyn pochodzi przypuszczalnie z niemieckiego i może oznaczać \"pusty kamień\" lub \"pieczarę\", co odnosi się do położenia zamku na skale kryjącej dużą grotę. \\\n\\\nAż do XVI wieku zamek był rozbudowywany, otoczony wysokimi murami, ale od XVII wieku zaczął popadać w ruinę, mimo to do dziś budzi podziw swoimi rozmiarami. Wokół zamku zachowała się pierwotna sceneria wapiennych ostańców i muraw utrzymywanych naturalną metodą. Do dzisiaj przetrwały relikty sześciu z kilkudziesięciu historycznych obiektów, a kolejne sześć odkryto dzięki badaniom archeologicznym. ",
     "latitude": 50.749833,
     "longitude": 19.274226,
     "type": "Castle"
@@ -39,7 +39,7 @@
     "id": 4,
     "tag": "ojcow",
     "name": "Ojców",
-    "description": "Zamek Królewski na Złotej Górze w Ojcowie",
+    "description": "Zamek w Ojcowie jest położony na Górze Zamkowej w Ojcowskim Parku Narodowym. Na jego miejscu we wczesnej epoce żelaza znajdowała się osada kultury łużyckiej, która została zniszczona przez Scytów. \\\n\\\nZamek wzniesiono na polecenie Kazimierza Wielkiego w drugiej połowie XIV wieku i po raz pierwszy wzmiankowano go w 1370 roku. Do 1795 roku był siedzibą starostwa niegrodowego, a jego nazwa upamiętnia walkę Władysława Łokietka o tron krakowski. \\\n\\\nW XVII wieku zamek przeszedł przez ręce kilku właścicieli, był zaniedbany, a następnie częściowo odbudowany. W XIX wieku zamek podupadał i ostatecznie został opuszczony w 1802 roku. Pomimo licznych prac remontowych i planów odbudowy, do dzisiaj zachowały się jedynie fragmenty wieży, brama i dolne partie murów obwodowych.",
     "latitude": 50.211841,
     "longitude": 19.830077,
     "type": "Castle"
@@ -48,7 +48,7 @@
     "id": 5,
     "tag": "rabsztyn",
     "name": "Rabsztyn",
-    "description": "Zamek Rycerski w Rabsztynie",
+    "description": "Zamek w Rabsztynie jest położony na Wzgórzu Rabsztyńskim na Wyżynie Krakowsko-Częstochowskiej. Jego nazwa wywodzi się z niemieckiego „Rabenstein”, co oznacza kruczą skałę. \\\n\\\nBudowę zamku przypisuje się trzem możliwym fundatorom: biskupowi Janowi Muskacie, królowi Wacławowi II, lub rodowi Toporczyków z Morawicy. Pierwsze pisemne wzmianki o zamku pochodzą z 1396 roku, chociaż badania archeologiczne wskazują, że drewniane budynki istniały tam już w drugiej połowie XIII wieku. \\\n\\\nZamek pełnił funkcję strażnicy granicznej z Czechami i chronił szlak handlowy z Krakowa do Wrocławia. W XIV wieku Władysław Jagiełło oddał zamek w zastaw Spytkowi II z Melsztyna, a po jego śmierci w 1399 roku, wdowa Elżbieta Melsztyńska objęła zamek. W 1443 roku zamek przeszedł w ręce rodu Tęczyńskich, którzy go wzmocnili. \\\n\\\nPrzez kolejne stulecia zamek był własnością różnych rodów, w tym Bonerów i Firlejów. W 1657 roku Szwedzi spalili zamek, który następnie próbowano odbudować, ale cel ten nigdy nie został w pełni zrealizowany. \\\n\\\nObecnie zamek został poddany rekonstrukcji, czyniąc z niego bardzo porządaną atrakcję turystyczną oraz miejsce przeprowadzania corocznych turniejów rycerskich. Ruiny zamku zostały również wykorzystane w filmie „Karol. Człowiek, który został papieżem” w reżyserii Giacomo Battiato.",
     "latitude": 50.299704,
     "longitude":  19.592906,
     "type": "Castle"
@@ -57,7 +57,7 @@
     "id": 6,
     "tag": "bydlin",
     "name": "Bydlin",
-    "description": "Zamek Rycerski w Bydlinie",
+    "description": "Zamek w Bydlinie to ruiny zamku z XIV wieku, położone we wsi Bydlin w województwie małopolskim, w powiecie olkuskim. Od XVI wieku zamek pełnił również funkcję świątyni, choć niektórzy uczeni uważają, że budowla od samego początku miała charakter sakralny. \\\n\\\nHistoria zamku sięga końca XIV wieku, kiedy na skalistym wzgórzu wzniesiono pierwszą warownię – wieżę obronną. Pierwszym właścicielem zamku był syn Niemierzy z Gołczy, któremu przypisuje się jej budowę. W XVI wieku zamek przeszedł na własność Bonerów, a następnie Firlejów, którzy przebudowali go na kościół.  \\\n\\\nW okresie reformacji, około 1570 roku, Jan Firlej przekształcił kościół w zbór ariański, ale w 1594 roku jego syn Mikołaj ponownie przeobraził go na kościół katolicki pod wezwaniem Świętego Krzyża. W 1655 roku kościół został zniszczony przez Szwedów, ale później odbudowany przez Męcińskich.  \\\n\\\nNa początku I wojny światowej, 17 listopada 1914 roku, legioniści pod dowództwem komendanta Trojanowskiego okopali się na wzgórzu zamkowym i ruszyli na wojska rosyjskie, rozpoczynając bitwę pod Krzywopłotami. Obecnie, zamek pozostawiony jest w stanie ruin, ale jest bardzo dobrze zagospodarowany i oświetlony, otoczony tablicami informacyjnymi na temat jego historii, ale również bitwy, która stoczyła się na jego zboczu.",
     "latitude": 50.388826,
     "longitude": 19.643011,
     "type": "Castle"
@@ -66,7 +66,7 @@
     "id": 7,
     "tag": "pilica",
     "name": "Pilica",
-    "description": "Pałac Obronny i Park w Pilicy",
+    "description": "Pałac w Pilicy znajduje się, jak sama nazwa wskazuje, w mieście Pilica, w województwie śląskim. Jest to, tzw. Palazzo in fortezza - pałac posiadający cechy obronne. Jest on otoczony bastionowymi fortyfikacjami. \\\n\\\nW 1570 roku biskup krakowski Filip Padniewski kupił Pilicę od Jana Pileckiego i przekazał ją swojemu bratankowi Wojciechowi Padniewskiemu. Wojciech Padniewski rozpoczął budowę późnorenesansowej rezydencji przed 1605 rokiem, którą kontynuował jego syn Stanisław Padniewski. Po śmierci Stanisława Padniewskiego nieukończony zamek stał się przedmiotem sporów majątkowych. \\\n\\\nW 1613 roku majątek nabył kasztelan krakowski Jerzy Zbaraski, który około 1620 roku rozbudował zamek, tworząc nad dziedzińcem trzynawową salę wspartą na kolumnach. Zbaraski zlecił również budowę pierwszych fortyfikacji wokół pałacu. Do jego śmierci w 1631 roku powstał zarys czworobocznej twierdzy z bastionami i fosą. \\\n\\\nPo Jerzym Zbaraskim zamek odziedziczył Konstanty Wiśniowiecki, a następnie Stanisław Warszycki. Warszycki dokończył budowę wałów i bastionów, przebudował rejon bramy, wzmacniając zamek. Pomimo modernizacji, w 1655 roku zamek na krótko zajęli Szwedzi. Warszycki odzyskał zamek w lutym 1656 roku. \\\n\\\nW 1731 roku Maria z Wesslów Sobieska kupiła zamek i przebudowała go, nadając mu cechy pałacowe. Zburzyła niektóre bastiony i kurtynę od strony miasta. W 1753 roku przekazała majątek Teodorowi Wesslowi. W 1783 roku Pilicę przejął Karol Larisch, a w 1787 roku nałożono na nią areszt wierzycieli. \\\n\\\nW 1874 roku Leon Epstein nabył pałac i rozpoczął jego remont. Przebudował wnętrza w stylu neorenesansowym, dodał oranżerie, kordegardę, nową bramę i romantyczne elementy fortyfikacji. Po problemach finansowych Epstein sprzedał majątek w 1882 roku. W 1894 roku zamek kupił Zdzisław Puchała.",
     "latitude": 50.467910,
     "longitude": 19.6489191,
     "type": "Palace"
@@ -75,7 +75,7 @@
     "id": 8,
     "tag": "gora_birow",
     "name": "Góra Birów",
-    "description": "Gród na Górze Birów",
+    "description": "Gród na Górze Birów – zrekonstruowany gród na wzgórzu Birów w Podzamczu koło Ogrodzieńca. Wzgórze posiada charakterystyczne zwieńczenie w postaci niecki otoczonej skałami, co nadawało mu doskonałe cechy obronne. \\\n\\\nArcheolodzy odkryli, że wzgórze było zamieszkane od schyłkowego neolitu, a ślady osadnictwa obejmują kultury pucharów lejkowatych, ceramiki sznurowej, łużyckiej, germańskiej oraz słowiańskiej. W XII wieku wybudowano tu gród, który został zniszczony w XIV wieku podczas walk Władysława Łokietka z Czechami. Po jego zniszczeniu, nie został odbudowany, a jego rolę przejął pobliski Zamek w Ogrodzieńcu. \\\n\\\nPrace archeologiczne z lat 90. XX wieku potwierdziły istnienie grodu, co doprowadziło do jego rekonstrukcji i udostępnienia do zwiedzania w 2018 roku. Obecnie gród posiada wieżę bramną, chatę wodza oraz wieżę strażniczą, a zgromadzone artefakty odzwierciedlają życie codzienne Słowian z tego okresu.",
     "latitude": 50.464656,
     "longitude": 19.551152,
     "type": "Outpost"
@@ -84,7 +84,7 @@
     "id": 9,
     "tag": "bakowiec",
     "name": "Bąkowiec",
-    "description": "Zamek Rycerski Bąkowiec w Morsku",
+    "description": "Zamek Bąkowiec, znany również jako zamek w Morsku, to ruiny zamku na Wyżynie Krakowsko-Częstochowskiej. Zamek, wpisany do rejestru zabytków, znajduje się w Skarżycach, dzielnicy Zawiercia. \\\n\\\nZamek najprawdopodobniej został zbudowany w XIV wieku przez Toporczyków, a pierwsza wzmianka o zamku pochodzi z 1389 roku. W XIV i XV wieku zamek przechodził przez ręce różnych właścicieli, m.in. Mikołaja Strzały, Piotra z Marcinowic, Jana z Sieciechowic i Krystyna II z Koziegłów. \\\n\\\nW XVII wieku zamek popadł w ruinę, a w XX wieku ruiny zamku przeszły na własność prywatną. W 2015 roku zamek został przejęty przez Towarzystwo Miłośników Ziemi Zawierciańskiej.",
     "latitude": 50.550866,
     "longitude": 19.520732,
     "type": "Castle"
@@ -93,7 +93,7 @@
     "id": 10,
     "tag": "bobolice",
     "name": "Bobolice",
-    "description": "Zamek Królewski w Bobolicach",
+    "description": "Królewski zamek w Bobolicach został zbudowany przez króla Kazimierza Wielkiego około 1350–1352 roku, aby chronić Małopolskę przed najazdami ze Śląska. W 1370 r. król Ludwik Węgierski przekazał zamek Władysławowi Opolczykowi, a w 1379 r. zamek trafił w ręce jego dworzanina, Andrzeja Schóny z Barlabás, który przekształcił go w warownię zbójecką. W 1396 r. król Władysław Jagiełło przywrócił zamek do dóbr królewskich. \\\n\\\nW XVI wieku zamek przeszedł przez ręce różnych właścicieli, w tym Piotra Szafrańca i Andrzeja Treski. Podczas wojny domowej w 1587 r. zamek został uszkodzony, a podczas potopu szwedzkiego w 1657 r. praktycznie doszczętnie zniszczony przez Szwedów, ostatecznie popadając w ruinę.  \\\n\\\nPod koniec XX wieku, rodzina Laseckich rozpoczęła odbudowę zamku. Prace zakończono we wrześniu 2011 r., choć rekonstrukcja spotkała się z krytyką za brak historycznej dokładności i fałszowanie pierwotnej formy zamku. Mimo to, zamek został otwarty dla publiczności i obecnie cieszy się dużym zainteresowaniem wśród turystów",
     "latitude": 50.6134788,
     "longitude": 19.493232,
     "type": "Castle"
@@ -102,7 +102,7 @@
     "id": 11,
     "tag": "mirow",
     "name": "Mirow",
-    "description": "Zamek Rycerski w Mirowie",
+    "description": "Zamek w Mirowie został zbudowany w czasach Kazimierza Wielkiego około połowy XIV wieku. Początkowo istniały tam drewniano-ziemne zabudowania, które z czasem przekształcono w kamienną strażnicę podległą zamkowi w Bobolicach. W 1378 roku warownię nadano Władysławowi Opolczykowi, a w 1396 roku Władysław Jagiełło przywrócił ją do dóbr królewskich. \\\n\\\nW 1401 roku pierwszym burgrabią Mirowa był tak zwany \"Sassin\", a w 1416 roku zarządzał nim wymieniany w dokumentach sądowych \"Polanis\". \\\n\\\nW 1445 roku właścicielem zamku został Jan Hińcza z Rogowa, a później jego żona Dorota Koziegłowska. W 1489 roku zamek przejęli Myszkowscy herbu Jastrzębiec, którzy rozbudowali zamek, ale przenieśli się do nowej siedziby z powodu ograniczeń rozbudowy.\\\n\\\nPodczas potopu szwedzkiego zamek został mocno zniszczony. Mimo prób remontu, zamek popadał w ruinę i został opuszczony w 1787 roku. W XIX wieku stał się źródłem kamienia dla okolicznych mieszkańców, co przyspieszyło jego destrukcję. ",
     "latitude": 50.614650,
     "longitude": 19.475205,
     "type": "Castle"
@@ -111,7 +111,7 @@
     "id": 12,
     "tag": "ostreznik",
     "name": "Ostrężnik",
-    "description": "Zamek Rycerski w Ostrężniku",
+    "description": "Zamek Ostrężnik, położony niedaleko osady Ostrężnik, to ruiny zamku na szczycie skały o wysokości 380 m n.p.m. Badania archeologiczne wskazują na jego budowę na początku XIV wieku, prawdopodobnie z inicjatywy Jana Muskaty, biskupa krakowskiego. \\\n\\\nDziś pozostały po nim jedynie fragmenty murów, wieży obronnej i budynku mieszkalnego. Teren, porośnięty lasem, jest miejscem, gdzie znajduje się Jaskinia Ostrężnicka, popularna wśród speleologów z korytarzami o długości około 90 metrów.",
     "latitude": 50.674879,
     "longitude": 19.400223,
     "type": "Castle"

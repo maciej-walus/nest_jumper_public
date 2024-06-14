@@ -1,22 +1,30 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:convert';
 import 'dart:async';
 
 /// Klasa odpowiedzielna za zarządzanie danymi przechowywanymi w pliku JSON
 
-class JsonHandler with ChangeNotifier {
+class JsonHandler {
   List<dynamic> jsonData = [];
 
-  Future<void> loadJson() async {
+  Future<void> loadAttractionsJson() async {
     var jsonRaw = await rootBundle.loadString('assets/attractions.json');
     jsonRaw = jsonRaw.replaceAll("\\\\n","\\n");
     jsonData = jsonDecode(jsonRaw) as List<dynamic>;
-    notifyListeners();
   }
 
-  Future<List<dynamic>> returnJson() {
-    return loadJson().then((_) => jsonData);
+  Future<List<dynamic>> returnAttractionsJson() {
+    return loadAttractionsJson().then((_) => jsonData);
+  }
+
+  Future<void> loadFaqJson() async {
+    var jsonRaw = await rootBundle.loadString('assets/faq.json');
+    jsonRaw = jsonRaw.replaceAll("\\\\n","\\n");
+    jsonData = jsonDecode(jsonRaw) as List<dynamic>;
+  }
+
+  Future<List<dynamic>> returnFaqJson() {
+    return loadFaqJson().then((_) => jsonData);
   }
 
   String returnDescription(int id){
@@ -41,6 +49,24 @@ class JsonHandler with ChangeNotifier {
     for (var object in jsonData) {
       if (object['id'] == id) {
         return object['tag'];
+      }
+    }
+    return 'Object not found';
+  }
+
+  String returnQuestion(int id){
+    for (var object in jsonData) {
+      if (object['id'] == id) {
+        return object['question'];
+      }
+    }
+    return 'Object not found';
+  }
+
+  String returnAnswer(int id){
+    for (var object in jsonData) {
+      if (object['id'] == id) {
+        return object['answer'];
       }
     }
     return 'Object not found';

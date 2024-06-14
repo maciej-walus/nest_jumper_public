@@ -13,7 +13,6 @@ void main() {
       providers: [
         ChangeNotifierProvider(create: (context) => MapObjects()),
         ChangeNotifierProvider(create: (context) => PageRouting()),
-        ChangeNotifierProvider(create: (context) => JsonHandler()),
 
       ],
       child: const NestJumper(),
@@ -64,6 +63,7 @@ class NestJumper extends StatelessWidget {
             fontSize: 25,
             color: Colors.white,
           ),
+
 
         ),
       ),

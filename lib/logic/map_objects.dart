@@ -25,9 +25,6 @@ class MapObjects with ChangeNotifier {
       case 'Outpost':
         icon = await _loadIcon('assets/icons/outpost.png');
         break;
-      case 'User':
-        icon = await _loadIcon('assets/icons/user.png');
-        break;
       default:
         icon = BitmapDescriptor.defaultMarker;
     }
@@ -42,7 +39,7 @@ class MapObjects with ChangeNotifier {
     }
 
   Future<BitmapDescriptor> _loadIcon(String assetPath) async {
-    return BitmapDescriptor.fromAssetImage(ImageConfiguration(devicePixelRatio: 2.5, size: Size(40, 40)), assetPath);
+    return BitmapDescriptor.fromAssetImage(const ImageConfiguration(devicePixelRatio: 2.5, size: Size(40, 40)), assetPath);
   }
 
   Future<void> loadMarkersFromJson({required Future<List<dynamic>> jsonData, context}) async {

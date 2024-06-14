@@ -23,7 +23,7 @@ class _OlsztynPageState extends State<OlsztynPage> {
   }
 
   _loadJson() async {
-    await _jsonHandler.loadJson();
+    await _jsonHandler.loadAttractionsJson();
     setState(() {
       _name = _jsonHandler.returnName(id);
       _description = _jsonHandler.returnDescription(id);

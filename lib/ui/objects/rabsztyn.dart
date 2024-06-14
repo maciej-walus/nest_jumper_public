@@ -23,7 +23,7 @@ class _RabsztynPageState extends State<RabsztynPage> {
   }
 
   _loadJson() async {
-    await _jsonHandler.loadJson();
+    await _jsonHandler.loadAttractionsJson();
     setState(() {
       _name = _jsonHandler.returnName(id);
       _description = _jsonHandler.returnDescription(id);

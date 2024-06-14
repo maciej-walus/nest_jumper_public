@@ -36,7 +36,7 @@ class _CastlesPageState extends State<CastlesPage> {
       drawer: Menu(),
       body: Center(
         child: FutureBuilder(
-          future: JsonHandler().returnJson(),
+          future: JsonHandler().returnAttractionsJson(),
           builder: (context, snapshot) {
             if (snapshot.hasData) {
               final buttons = _pageRouting.ObjectButtonsFromJson(snapshot.data, context);
@@ -52,11 +52,11 @@ class _CastlesPageState extends State<CastlesPage> {
                             child: button['image'],
                           ),
                           Padding(
-                          padding: const EdgeInsets.symmetric(vertical: 10.0),
-                          child:ElevatedButton(
-                                child: button['child'],
-                                onPressed: button['onPress'],
-                              ),
+                            padding: const EdgeInsets.symmetric(vertical: 10.0),
+                            child:ElevatedButton(
+                              child: button['child'],
+                              onPressed: button['onPress'],
+                            ),
                           ),
                         ],
                       );

@@ -62,37 +62,21 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/
-    - assets/images/ogrodzieniec/ogrodzieniec_1.png
-    - assets/images/ogrodzieniec/ogrodzieniec_2.png
-    - assets/images/ogrodzieniec/ogrodzieniec_3.png
-    - assets/images/ogrodzieniec/ogrodzieniec_4.png
-    - assets/images/pilcza/pilcza_1.png
-    - assets/images/pilcza/pilcza_2.png
-    - assets/images/pilcza/pilcza_3.png
-    - assets/images/pilcza/pilcza_4.png
-    - assets/images/pieskowa_skala/pieskowa_skala_1.png
-    - assets/images/pieskowa_skala/pieskowa_skala_2.png
-    - assets/images/pieskowa_skala/pieskowa_skala_3.png
-    - assets/images/pieskowa_skala/pieskowa_skala_4.png
-    - assets/images/olsztyn/olsztyn_1.png
-    - assets/images/olsztyn/olsztyn_2.png
-    - assets/images/olsztyn/olsztyn_3.png
-    - assets/images/olsztyn/olsztyn_4.png
-    - assets/images/ojcow/ojcow_1.png
-    - assets/images/ojcow/ojcow_2.png
-    - assets/images/ojcow/ojcow_3.png
-    - assets/images/ojcow/ojcow_4.png
-    - assets/images/rabsztyn/rabsztyn_1.png
-    - assets/images/rabsztyn/rabsztyn_2.png
-    - assets/images/rabsztyn/rabsztyn_3.png
-    - assets/images/rabsztyn/rabsztyn_4.png
-    - assets/images/bydlin/bydlin_1.png
-    - assets/images/bydlin/bydlin_2.png
-    - assets/images/bydlin/bydlin_3.png
-    - assets/images/bydlin/bydlin_4.png
-
-
+    - assets/images/ogrodzieniec/
+    - assets/images/pilcza/
+    - assets/images/pieskowa_skala/
+    - assets/images/olsztyn/
+    - assets/images/ojcow/
+    - assets/images/rabsztyn/
+    - assets/images/bydlin/
+    - assets/images/pilica/
+    - assets/images/gora_birow/
+    - assets/images/bakowiec/
+    - assets/images/bobolice/
+    - assets/images/mirow/
+    - assets/images/ostreznik/
     - assets/attractions.json
+    - assets/faq.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

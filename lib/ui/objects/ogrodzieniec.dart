@@ -23,7 +23,7 @@ class _OgrodzieniecPageState extends State<OgrodzieniecPage> {
   }
 
   _loadJson() async {
-    await _jsonHandler.loadJson();
+    await _jsonHandler.loadAttractionsJson();
     setState(() {
       _name = _jsonHandler.returnName(id);
       _description = _jsonHandler.returnDescription(id);
