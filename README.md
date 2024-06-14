@@ -1,16 +1,12 @@
-# nest_jumper
+# Nest Jumper
 
-A new Flutter project.
+A tourist application regarding the Trail of the Eagles' Nests, a trail of historical castles on the border of Silesian and Lesser Poland voivodeships.
 
-## Getting Started
+## How to deploy
 
-This project is a starting point for a Flutter application.
+tba
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Icons used in the application can be found under:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
