@@ -24,25 +24,25 @@ class _MenuState extends State<Menu> {
                 ListTile(
                   title: Text('Mapa', style: textTheme.bodyMedium),
                   onTap: () {
-                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => MapPage(title: 'Map Page')));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => const MapPage(title: 'Map Page')));
                   },
                 ),
                 ListTile(
                   title: Text('Zabytki', style: textTheme.bodyMedium),
                   onTap: () {
-                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => CastlesPage(title: 'Castles Page')));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => const CastlesPage(title: 'Castles Page')));
                   },
                 ),
                 ListTile(
                   title: Text('FAQ', style: textTheme.bodyMedium),
                   onTap: () {
-                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => FAQPage(title: 'FAQ Page',)));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => const FAQPage(title: 'FAQ Page',)));
                   },
                 ),
                 ListTile(
                   title: Text('Historia szlaku', style: textTheme.bodyMedium),
                   onTap: () {
-                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => TrailPage(title: 'Trail Page',)));
+                    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => const TrailPage(title: 'Trail Page',)));
                   },
                 ),
               ],

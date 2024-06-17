@@ -35,16 +35,16 @@ class _FAQPageState extends State<FAQPage> {
         title: Text('FAQ', style: textTheme.bodyMedium),
         backgroundColor: Theme.of(context).primaryColor,
       ),
-      drawer: Menu(),
+      drawer: const Menu(),
       body: _faqData.isEmpty
-          ? Center(child: CircularProgressIndicator())
+          ? const Center(child: CircularProgressIndicator())
           : ListView.builder(
         itemCount: _faqData.length,
         itemBuilder: (context, index) {
           return Column(
             children: [
               Card(
-                margin: EdgeInsets.only(top: 10, bottom: 10),
+                margin: const EdgeInsets.only(top: 10, bottom: 10),
                 color: Theme.of(context).primaryColor,
                 child: ListTile(
                   contentPadding: EdgeInsets.all(16),

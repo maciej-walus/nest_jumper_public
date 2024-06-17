@@ -4,16 +4,6 @@ import 'package:nest_jumper/logic/page_routing.dart';
 import 'package:nest_jumper/ui/menu.dart';
 import 'package:provider/provider.dart';
 
-import 'objects/bydlin.dart';
-///Importowanie wszystkich stron z zamkami
-import 'objects/ogrodzieniec.dart';
-import 'objects/ojcow.dart';
-import 'objects/olsztyn.dart';
-import 'objects/pilcza.dart';
-import 'objects/pieskowa_skala.dart';
-import 'objects/pilica.dart';
-import 'objects/rabsztyn.dart';
-
 class CastlesPage extends StatefulWidget {
   const CastlesPage({required this.title, super.key});
   final String title;
@@ -33,7 +23,7 @@ class _CastlesPageState extends State<CastlesPage> {
         title: Text('Zabytki', style: textTheme.bodyMedium),
         backgroundColor: Theme.of(context).primaryColor,
       ),
-      drawer: Menu(),
+      drawer: const Menu(),
       body: Center(
         child: FutureBuilder(
           future: JsonHandler().returnAttractionsJson(),
@@ -47,7 +37,7 @@ class _CastlesPageState extends State<CastlesPage> {
                     children: buttons.map((button) {
                       return Column(
                         children: [
-                          Container(
+                          SizedBox(
                             width: double.infinity,
                             child: button['image'],
                           ),
@@ -66,7 +56,7 @@ class _CastlesPageState extends State<CastlesPage> {
               );
             }
             else {
-              return CircularProgressIndicator();
+              return const CircularProgressIndicator();
             }
           },
         ),

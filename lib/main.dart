@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:nest_jumper/logic/json_handling.dart';
 import 'package:provider/provider.dart';
 import 'logic/map_objects.dart';
 import 'logic/page_routing.dart';
@@ -13,7 +12,6 @@ void main() {
       providers: [
         ChangeNotifierProvider(create: (context) => MapObjects()),
         ChangeNotifierProvider(create: (context) => PageRouting()),
-
       ],
       child: const NestJumper(),
     ),
@@ -34,22 +32,16 @@ class NestJumper extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: false,
         primarySwatch: Colors.brown,
-
-        // Define the default brightness and colors.
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.brown.shade400,
-          // ···
-          // brightness: Brightness.light,
         ),
 
-        // Define the default `TextTheme`. Use this to specify the default
-        // text styling for headlines, titles, bodies of text, and more.
         textTheme: TextTheme(
           displayLarge: const TextStyle(
             fontSize: 72,
             fontWeight: FontWeight.bold,
           ),
-          // ···
+
           titleLarge: GoogleFonts.lora(
             fontSize: 35,
             fontWeight: FontWeight.bold,
@@ -63,12 +55,9 @@ class NestJumper extends StatelessWidget {
             fontSize: 25,
             color: Colors.white,
           ),
-
-
         ),
       ),
       home: const HomePage(title: 'Home'),
-
     );
   }
 }

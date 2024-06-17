@@ -3,14 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:nest_jumper/logic/page_routing.dart';
 
-
 /// Klasa odpowiedzalna za tworzenie markerów
 
 class MapObjects with ChangeNotifier {
-  bool _serviceEnabled = false;
-  bool get serviceEnabled => _serviceEnabled;
   List<Marker> markers = <Marker>[];
-
 
   void addMarkerToList(id, name, latitude, longitude, type, context) async {
     BitmapDescriptor icon;

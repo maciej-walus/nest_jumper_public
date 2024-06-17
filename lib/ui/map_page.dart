@@ -1,15 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:provider/provider.dart';
-// import 'package:location/location.dart';
 import '../logic/map_objects.dart';
 import '../logic/page_routing.dart';
 import '../ui/menu.dart';
 import '../logic/json_handling.dart';
-
-// import '../app/location_handling.dart';
-
-
 
 class MapPage extends StatefulWidget {
   const MapPage({super.key, required String title});
@@ -40,7 +35,6 @@ class _State extends State<MapPage> {
     final TextTheme textTheme = Theme.of(context).textTheme;
     final MapObjects _mapObjects = Provider.of<MapObjects>(context);
     final PageRouting _pageRouting = Provider.of<PageRouting>(context);
-    print(_mapObjects.markers);
 
     return Scaffold(
       appBar: AppBar(
@@ -82,7 +76,7 @@ class _State extends State<MapPage> {
             );
           }
           else {
-            return Center(child: CircularProgressIndicator());
+            return const Center(child: CircularProgressIndicator());
           }
         },
       ),
